@@ -1,11 +1,11 @@
 ## Hi there 👋
-💻 Welcome to my page! My name is Tam Yong Jun
-🎓 Diploma in Computer Science @ Universiti Teknologi Malaysia (UTMSPACE)
-📍 Based in Johor Bahru, Malaysia
-🚀 Seeking: Internship opportunities (Dec 2025 – Jun 2026)
+    - 💻 Welcome to my page! My name is Tam Yong Jun
+    -🎓 Diploma in Computer Science @ Universiti Teknologi Malaysia (UTMSPACE)
+    -📍 Based in Johor Bahru, Malaysia
+    -🚀 Seeking: Internship opportunities (Dec 2025 – Jun 2026)
 
 ## Skills 🛠️
-+ **anguages:** Python, Java, C++, JavaScript
++ **languages:** Python, Java, C++, JavaScript
 
 + **Databases:** MySQL, Firebase
 
