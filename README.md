@@ -14,7 +14,7 @@ Tools: Git, GitHub, VS Code, Android Studio
 Interests: Automation, Cloud Computing, Cybersecurity
 
 ## Featured Projects 📁
-*KaiFeedCat(KFC) [Diploma Final Year Project]
+* KaiFeedCat(KFC) [Diploma Final Year Project] *
     - IoT based smart pet feeder with live cam supported
     - Store & Retrieve data real time through firestore
     
