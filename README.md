@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my GitHub page, My name is Tam Yong Jun and I am currently a Diploma In Computer Science Student in Universiti Teknologi Malaysia.
 
-# This profile will be featuring my projects
+### This profile will be featuring my projects
 *KaiFeedCat(KFC) [Final Year Project]
 
 <!--
