@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my GitHub page, My name is Tam Yong Jun and I am currently a Diploma In Computer Science Student in Universiti Teknologi Malaysia.
+
+# This profile will be featuring my projects
+*KaiFeedCat(KFC) [Final Year Project]
 
 <!--
 **LamaTopaz/LamaTopaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
