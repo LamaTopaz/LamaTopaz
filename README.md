@@ -5,13 +5,13 @@
 🚀 Seeking: Internship opportunities (Dec 2025 – Jun 2026)
 
 ## Skills 🛠️
-Languages: Python, Java, C++, JavaScript
++ **anguages:** Python, Java, C++, JavaScript
 
-Databases: MySQL, Firebase
++ **Databases:** MySQL, Firebase
 
-Tools: Git, GitHub, VS Code, Android Studio
++ **Tools:** Git, GitHub, VS Code, Android Studio
 
-Interests: Automation, Cloud Computing, Cybersecurity
++ **Interests:** Automation, Cloud Computing, Cybersecurity
 
 ## Featured Projects 📁
 * KaiFeedCat(KFC) [Diploma Final Year Project]
